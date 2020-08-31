@@ -164,6 +164,13 @@
       "symbol": "LINK",
       "decimals": 18
     }
+    {
+      "chainId": 1,
+      "address": "0x041fdd6637eCfD96af8804278AC12660ac2D12c0",
+      "name": "SwapDEX",
+      "symbol": "SDX",
+      "decimals": 18
+    }
   ],
   "version": {
     "major": 0,
